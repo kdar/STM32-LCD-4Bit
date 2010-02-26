@@ -1,0 +1,5 @@
+A 4-bit LCD library for the STM32 based on http://www.arduino.cc/playground/Code/LCD4BitLibrary.
+
+Code also borrowed from the Maple project and the Arduino library.
+http://leaflabs.com/tiki-index.php
+http://www.arduino.cc/
