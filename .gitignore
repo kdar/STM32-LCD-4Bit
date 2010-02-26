@@ -1,0 +1,16 @@
+*.orig
+*.rej
+*~
+*.o
+*.old
+*.backup
+*.bkup
+*.bak
+*.pyc
+*.kpf
+*.log
+*.log.*
+tests/*.err
+*.lst
+
+/.dep
